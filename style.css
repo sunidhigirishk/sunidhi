@@ -1,0 +1,63 @@
+.sign-up-form,.sign-in-form{
+    max: width 300px;
+    margin:0 auto;
+    move align
+}
+body{
+    background-image:url("back.jpg");
+    background-repeat:1.repeat;
+    background-size:cover;
+}
+label{
+    display:block;
+    margin: bottom 5px;
+}
+input{
+    width:100%;
+    padding:8px;
+    margin-bottom:10px;
+    border:1px solid #ddd;
+    border-radius:3px;
+}
+button{
+    display:inline-block;
+    padding:8px 20px;
+}
+.a{
+    color:rgb(0, 0, 0);
+    background-color:rgb(251, 115, 133);
+    text-align:center;
+    padding:1rem 0;
+    text-shadow: #ddd;
+}
+.footer{
+    text-align:center;
+    background-color:rgb(251, 115, 133);
+    color:rgb(0, 0, 0);
+    padding:1rem 0;
+    bottom: 1%;
+    width:100%;
+    height:2.5rem;
+    position: absolute;
+
+}
+.cta{
+    font-size:30px;
+    text-align:center;
+}
+.logo{
+ margin-bottom:1rem;
+ align-content:right;
+ background-color:rgb(251, 115, 133);;
+
+}
+header{
+ 
+    color:black;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgb(251, 115, 133);
+}
